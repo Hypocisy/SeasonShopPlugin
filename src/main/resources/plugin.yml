@@ -1,0 +1,5 @@
+name: SeasonShop
+version: '${project.version}'
+main: com.kumoe.season_shop.SeasonShopPlugin
+api-version: '1.20'
+depend: [ CMI ]
